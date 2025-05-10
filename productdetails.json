@@ -1,203 +1,259 @@
-{
-    "Barcode": "8902102163961",
-    "ProductName": "Exo Anti-Bacterial Dishwash Bar – Ginger Twist",
-    "Description": "Anti-bacterial dishwash bar infused with ginger extract, designed to eliminate grease and germs while protecting hands from harsh chemicals.",
-    "Category": "Home & Kitchen",
-    "ProductLine": "Dishwashing",
-    "Quantity": 90,
-    "Unit": "gm",
-    "Features": [
-      "Kills 99.9% germs",
-      "Ginger extract for freshness",
-      "Removes stubborn grease",
-      "Skin-friendly formula"
-    ],
-    "Specification": {
-      "PackType": "Multipack",
-      "PackSize": "4 x 90g",
-      "CountryOfOrigin": "India",
-      "Manufacturer": "Jyothy Laboratories Ltd."
+[
+    {
+      "Barcode": "8902102163961",
+      "ProductName": "Exo Anti-Bacterial Dishwash Bar – Ginger Twist",
+      "Description": "Anti-bacterial dishwash bar infused with ginger extract, designed to eliminate grease and germs while protecting hands from harsh chemicals.",
+      "Category": "Home & Kitchen",
+      "ProductLine": "Dishwashing",
+      "Quantity": 360,
+      "Unit": "gm",
+      "Features": [
+        "Kills 99.9% germs",
+        "Ginger extract for freshness",
+        "Removes stubborn grease",
+        "Skin-friendly formula"
+      ],
+      "Specification": {
+        "PackType": "Multipack",
+        "PackSize": "4 x 90g",
+        "CountryOfOrigin": "India",
+        "Manufacturer": "Jyothy Laboratories Ltd."
+      },
+      "Brand": "Exo",
+      "ProductImage": "image/Product-image/8902102163961.png",
+      "ProductIngredientImage": "image/ProductIngredientImage/8902102163961.jpg"
     },
-    "Brand": "Exo",
-    "ProductImage": "https://www.bigbasket.com/media/uploads/p/l/280076_7-exo-dish-shine-bar.jpg",
-    "ProductIngredientImage": "https://gharstuff.com/wp-content/uploads/2024/05/169183b.jpg"
-}
-{
-    "Barcode": "8902102163671",
-    "ProductName": "Exo Touch & Shine Anti-Bacterial Round Dishwash Bar",
-    "Description": "Exo Touch & Shine Anti-Bacterial Round Dishwash Bar is formulated to remove the toughest of grease, oil stickiness, and bad smell from utensils. It helps in cleaning burnt stains effortlessly, providing a refreshing experience in the kitchen. The bar is gentle on hands and leaves behind a pleasant fragrance.",
-    "Category": "Dishwashing",
-    "ProductLine": "Dishwash Bars",
-    "Quantity": 700,
-    "Unit": "gm",
-    "Features": [
-      "Anti-bacterial formula kills germs and keeps dishes hygienic",
-      "Powerful formulation removes tough stains and grease",
-      "Long-lasting and economical",
-      "Creates rich, luxurious lather for effective cleaning",
-      "Gentle on hands, leaving them soft and moisturized",
-      "Pleasant fragrance",
-      "Zero wastage with round shape",
-      "Tamper-proof packaging"
-    ],
-    "Specification": {
-      "Weight": "700g",
-      "Shape": "Round",
-      "Packaging": "Tamper-proof tub",
-      "FreeItem": "Exo Super Scrubber",
-      "Manufacturer": "Jyothy Labs Limited",
-      "ManufacturerAddress": "Ujala House, Ramkrishna Mandir Road, Kondivita, Andheri (East), Mumbai-400059, India"
+    {
+      "Barcode": "8902102163671",
+      "ProductName": "Exo Touch & Shine Anti-Bacterial Round Dishwash Bar",
+      "Description": "Removes toughest grease and stains with anti-bacterial protection and long-lasting foam in a round, zero-waste design.",
+      "Category": "Dishwashing",
+      "ProductLine": "Dishwash Bars",
+      "Quantity": 700,
+      "Unit": "gm",
+      "Features": [
+        "Anti-bacterial formula kills germs",
+        "Removes tough stains and grease",
+        "Long-lasting and economical",
+        "Creates rich, luxurious lather",
+        "Gentle on hands",
+        "Pleasant fragrance",
+        "Zero wastage with round shape",
+        "Tamper-proof packaging"
+      ],
+      "Specification": {
+        "Weight": "700g",
+        "Shape": "Round",
+        "Packaging": "Tamper-proof tub",
+        "FreeItem": "Exo Super Scrubber",
+        "Manufacturer": "Jyothy Labs Limited",
+        "ManufacturerAddress": "Ujala House, Ramkrishna Mandir Road, Kondivita, Andheri (East), Mumbai-400059, India"
+      },
+      "Brand": "Exo",
+      "ProductImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-2P9IbPoU5OCNK3u0lNQkyTqyRe5rtfgilQ&s",
+      "ProductIngredientImage": "https://www.baskethunt.com/wp-content/uploads/2021/07/exo-touch-shine-anti-bacterial-round-dishwash-bar-500-g-18-20210322-1.jpg"
     },
-    "Brand": "Exo",
-    "ProductImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-2P9IbPoU5OCNK3u0lNQkyTqyRe5rtfgilQ&s",
-    "ProductIngredientImage": "https://www.baskethunt.com/wp-content/uploads/2021/07/exo-touch-shine-anti-bacterial-round-dishwash-bar-500-g-18-20210322-1.jpg"
-  },
-  {
-    "Barcode": "8902102163930",
-    "ProductName": "Maya Premium Agarbathi",
-    "Description": "High-quality incense sticks with a blend of traditional fragrances.",
-    "Category": "Home Fragrance",
-    "ProductLine": "Maya Agarbathi",
-    "Quantity": 68,
-    "Unit": "gm",
-    "Features": [
-      "Long-lasting aroma",
-      "Made from natural ingredients",
-      "Ideal for meditation and rituals"
-    ],
-    "Specification": {
-      "StickLength": "20cm",
-      "BurnTime": "45 minutes per stick",
-      "FragranceType": "Sandalwood and Jasmine blend"
+    {
+      "Barcode": "8902102163930",
+      "ProductName": "Exo Anti-Bacterial Dishwash Bar",
+      "Description": "Formulated with ginger and Cyclosan to eliminate bacteria and tough grease from utensils.",
+      "Category": "Cleaning & Household",
+      "ProductLine": "Dishwash Bars",
+      "Quantity": 125,
+      "Unit": "gm",
+      "Features": [
+        "Kills germs in 10 seconds",
+        "Ginger infused",
+        "Removes tough grease and stains",
+        "Leaves utensils sparkling clean"
+      ],
+      "Specification": {
+        "ShelfLife": "24 months",
+        "Storage": "Store in a cool, dry place",
+        "Packaging": "Sealed pouch",
+        "Fragrance": "Herbal",
+        "TypeOfDetergent": "Soap Bar"
+      },
+      "Brand": "Exo",
+      "ProductImage": "https://www.bigbasket.com/media/uploads/p/l/20006247_2-exo-dish-wash-bar-anti-bacterial-big-pack.jpg",
+      "ProductIngredientImage": null
     },
-    "Brand": "Maya Agarbathi",
-    "ProductImage": "https://nahanbazaar.com/wp-content/uploads/2024/10/Maya-Jasmine-Agarbathi-1541746170-10052357-1.jpg",
-    "ProductIngredientImage": "https://rukminim2.flixcart.com/fk-p-harbour/600/600/images/incom/images/product/Maya-Jasmine-Agarbathi-1602478958-10052357-4.jpg?q=60"
-  },
-  {
-    "Barcode": "8902102164166",
-    "ProductName": "Maya Agarbathi Rose",
-    "Description": "Premium quality incense sticks infused with the soothing fragrance of rose, ideal for daily prayers and meditation.",
-    "Category": "Home Fragrance",
-    "ProductLine": "Maya Agarbathi",
-    "Quantity": 12,
-    "Unit": "gm",
-    "Features": [
-      "Long-lasting aroma",
-      "Made from natural ingredients",
-      "Ideal for meditation and rituals"
-    ],
-    "Specification": {
-      "StickLength": "20cm",
-      "BurnTime": "45 minutes per stick",
-      "FragranceType": "Rose"
+    {
+      "Barcode": "8902102164166",
+      "ProductName": "Exo Anti-Bacterial Dishwash Bar Touch & Shine",
+      "Description": "Dishwash bar with ginger and Cyclozan that removes grease and kills bacteria effectively.",
+      "Category": "Cleaning & Household",
+      "ProductLine": "Dishwash Bars",
+      "Quantity": 600,
+      "Unit": "gm",
+      "Features": [
+        "Kills germs in 10 seconds",
+        "Ginger infused",
+        "Removes tough grease",
+        "Sparkling clean utensils"
+      ],
+      "Specification": {
+        "ShelfLife": "24 months",
+        "Storage": "Store in a cool, dry place",
+        "Packaging": "Sealed pouch",
+        "Fragrance": "Herbal",
+        "TypeOfDetergent": "Soap Bar"
+      },
+      "Brand": "Exo",
+      "ProductImage": "https://www.bigbasket.com/media/uploads/p/l/40153276_2-exo-dishwash-bar-anti-bacterial-touch-shine-200-g.jpg",
+      "ProductIngredientImage": null
     },
-    "Brand": "Maya Agarbathi",
-    "ProductImage": "https://dms.mydukaan.io/original/jpeg/167976/55e01d7f-3fd0-4eb5-8a49-371aeeae09a0/1639140517226-d2e74295-5f91-4ff1-a7d5-9c812322cf1e.jpeg",
-    "ProductIngredientImage": "https://rukminim2.flixcart.com/fk-p-harbour/600/600/images/incom/images/product/Maya-Rose-Agarbathi-Free-Match-Box-1640072251-10093615-2.jpg?q=60"
-  },
-  {
-    "Barcode": "8902102163459",
-    "Product Name": "Exo Anti-Bacterial Dishwash Super Gel",
-    "Description": "Exo Anti-Bacterial Dishwash Super Gel is a powerful cleaning solution designed to remove tough grease and grime from utensils. Enriched with the goodness of ginger, it ensures effective cleaning while being gentle on hands.",
-    "Category": "Household Cleaning",
-    "ProductLine": "Dishwashing Liquids",
-    "Quantity": 225,
-    "Unit": "gm",
-    "Price": "₹50",
-    "Features": [
-      "Anti-bacterial properties",
-      "Ginger-based formulation",
-      "Tough on grease",
-      "Gentle on hands",
-      "Pleasant fragrance"
-    ],
-    "Specification": {
-      "Form": "Gel",
-      "Color": "Green",
-      "Fragrance": "Ginger",
-      "Packaging Type": "Bottle",
-      "Shelf Life": "24 months"
+    {
+      "Barcode": "8902102163459",
+      "ProductName": "Exo Anti-Bacterial Dishwash Super Gel",
+      "Description": "Powerful gel dishwash with ginger, designed to cut through grease and be gentle on hands.",
+      "Category": "Household Cleaning",
+      "ProductLine": "Dishwashing Liquids",
+      "Quantity": 225,
+      "Unit": "gm",
+      "Features": [
+        "Anti-bacterial properties",
+        "Ginger-based formulation",
+        "Tough on grease",
+        "Gentle on hands",
+        "Pleasant fragrance"
+      ],
+      "Specification": {
+        "Form": "Gel",
+        "Color": "Green",
+        "Fragrance": "Ginger",
+        "Packaging Type": "Bottle",
+        "Shelf Life": "24 months"
+      },
+      "Brand": "Exo",
+      "ProductImage": "https://www.bbassets.com/media/uploads/p/xxl/40206450_4-exo-super-gel-ginger.jpg",
+      "ProductIngredientImage": "https://www.jiomart.com/images/product/original/491899992/exo-anti-bacterial-ginger-dishwash-super-gel-225-g-legal-images-o491899992-p590980287-4-202211291756.jpg"
     },
-    "Brand": "Exo",
-    "Product Image": "https://www.bbassets.com/media/uploads/p/xxl/40206450_4-exo-super-gel-ginger.jpg",
-    "Product Ingredient Image": "https://www.jiomart.com/images/product/original/491899992/exo-anti-bacterial-ginger-dishwash-super-gel-225-g-legal-images-o491899992-p590980287-4-202211291756.jpg?im=Resize=(420,420)"
-  },
-  {
-    "Barcode": "8902102164166",
-    "Product Name": "Exo Dish Bar 200g x 4pcs (800g)",
-    "Description": "Exo Dish Bar is a powerful cleaning solution designed to remove tough grease and grime from utensils. Enriched with the goodness of ginger, it ensures effective cleaning while being gentle on hands.",
-    "Category": "Household Cleaning",
-    "ProductLine": "Dishwashing Bars",
-    "Quantity": 800,
-    "Unit": "gm",
-    "Features": [
-      "Anti-bacterial properties",
-      "Ginger-based formulation",
-      "Tough on grease",
-      "Gentle on hands",
-      "Pleasant fragrance"
-    ],
-    "Specification": {
-      "Form": "Bar",
-      "Color": "Green",
-      "Fragrance": "Ginger",
-      "Packaging Type": "Multipack",
-      "Shelf Life": "24 months"
+    {
+      "Barcode": "8902102164166",
+      "ProductName": "Exo Dish Bar 200g x 4pcs (800g)",
+      "Description": "Powerful ginger-based anti-bacterial dishwash bar in a value multipack.",
+      "Category": "Household Cleaning",
+      "ProductLine": "Dishwashing Bars",
+      "Quantity": 800,
+      "Unit": "gm",
+      "Features": [
+        "Anti-bacterial properties",
+        "Ginger-based formulation",
+        "Tough on grease",
+        "Gentle on hands",
+        "Pleasant fragrance"
+      ],
+      "Specification": {
+        "Form": "Bar",
+        "Color": "Green",
+        "Fragrance": "Ginger",
+        "Packaging Type": "Multipack",
+        "Shelf Life": "24 months"
+      },
+      "Brand": "Exo",
+      "ProductImage": "https://m.media-amazon.com/images/I/71U7zUwiBQL._AC_UF1000,1000_QL80_.jpg",
+      "ProductIngredientImage": "https://m.media-amazon.com/images/I/71r00PGGNTL.jpg"
     },
-    "Brand": "Exo",
-    "Product Image": "https://m.media-amazon.com/images/I/71U7zUwiBQL._AC_UF1000,1000_QL80_.jpg",
-    "Product Ingredient Image": "https://m.media-amazon.com/images/I/71r00PGGNTL.jpg"
-  },
-  {
-    "Barcode": "8902102164067",
-    "Product Name": "Exo Dishwash Bar - Anti-Bacterial, Touch & Shine, 200 g Pack",
-    "Description": "Exo Dishwash Bar is an anti-bacterial cleaning solution designed to remove tough grease and grime from utensils. Enriched with the goodness of ginger, it ensures effective cleaning while being gentle on hands.",
-    "Category": "Household Cleaning",
-    "ProductLine": "Dishwashing Bars",
-    "Quantity": 600,
-    "Unit": "gm",
-    "Features": [
-      "Anti-bacterial properties",
-      "Ginger-based formulation",
-      "Tough on grease",
-      "Gentle on hands",
-      "Pleasant fragrance"
-    ],
-    "Specification": {
-      "Form": "Bar",
-      "Color": "Green",
-      "Fragrance": "Ginger",
-      "Packaging Type": "Multipack",
-      "Shelf Life": "24 months"
+    {
+      "Barcode": "8902102164067",
+      "ProductName": "Exo Dishwash Bar - Anti-Bacterial, Touch & Shine, 200 g Pack",
+      "Description": "Multipack of ginger-powered anti-bacterial dishwash bars to clean effectively while protecting skin.",
+      "Category": "Household Cleaning",
+      "ProductLine": "Dishwashing Bars",
+      "Quantity": 600,
+      "Unit": "gm",
+      "Features": [
+        "Anti-bacterial properties",
+        "Ginger-based formulation",
+        "Tough on grease",
+        "Gentle on hands",
+        "Pleasant fragrance"
+      ],
+      "Specification": {
+        "Form": "Bar",
+        "Color": "Green",
+        "Fragrance": "Ginger",
+        "Packaging Type": "Multipack",
+        "Shelf Life": "24 months"
+      },
+      "Brand": "Exo",
+      "ProductImage": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSR2nydhHOyYB-xyR-Ax6frjBe9afSZlfQytxdZZCziBwYQaDkE1FVfRl8j1PEcYm-DaMUWiKaE73vRGMvA-uGu1BVArJuEDVUjkO-h4Oa2nJxqz8yBJKrzoQ",
+      "ProductIngredientImage": "https://www.jiomart.com/images/product/original/490856213/exo-ginger-twist-anti-bacterial-dishwash-bar-55-g-product-images-o490856213-p590490720-1-202301250135.jpg"
     },
-    "Brand": "Exo",
-    "Product Image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSR2nydhHOyYB-xyR-Ax6frjBe9afSZlfQytxdZZCziBwYQaDkE1FVfRl8j1PEcYm-DaMUWiKaE73vRGMvA-uGu1BVArJuEDVUjkO-h4Oa2nJxqz8yBJKrzoQ",
-    "Product Ingredient Image": "https://www.jiomart.com/images/product/original/490856213/exo-ginger-twist-anti-bacterial-dishwash-bar-55-g-product-images-o490856213-p590490720-1-202301250135.jpg?im=Resize=(420,420)"
-  },
-  {
-    "Barcode": "8902102163961",
-    "Product Name": "Exo Anti-Bacterial Ginger Twist Dishwash Bar Set 4×90g",
-    "Description": "Exo Anti-Bacterial Ginger Twist Dishwash Bar is a powerful cleaning solution designed to remove tough grease and grime from utensils. Enriched with the goodness of ginger, it ensures effective cleaning while being gentle on hands. The set contains 4 individual bars, each fortified with powerful anti-bacterial agents to eliminate disease-causing bacteria and leave a refreshing fragrance.",
-    "Category": "Household Cleaning",
-    "ProductLine": "Dishwashing Bars",
-    "Quantity": 360,
-    "Unit": "gm",
-    "Features": [
-      "Anti-bacterial properties",
-      "Ginger-based formulation",
-      "Tough on grease",
-      "Gentle on hands",
-      "Pleasant fragrance"
-    ],
-    "Specification": {
-      "Form": "Bar",
-      "Color": "Green",
-      "Fragrance": "Ginger",
-      "Packaging Type": "Multipack",
-      "Shelf Life": "24 months"
-    },
-    "Brand": "Exo",
-    "Product Image": "https://m.media-amazon.com/images/I/61xpM-TKOeL.jpg",
-    "Product Ingredient Image": ""
-  }
+    {
+        "Barcode": "8902102163961",
+        "Product Name": "Exo Anti-Bacterial Ginger Twist Dishwash Bar Set 4×90g",
+        "Description": "Exo Anti-Bacterial Ginger Twist Dishwash Bar is a powerful cleaning solution designed to remove tough grease and grime from utensils. Enriched with the goodness of ginger, it ensures effective cleaning while being gentle on hands. The set contains 4 individual bars, each fortified with powerful anti-bacterial agents to eliminate disease-causing bacteria and leave a refreshing fragrance.",
+        "Category": "Household Cleaning",
+        "ProductLine": "Dishwashing Bars",
+        "Quantity": 360,
+        "Unit": "gm",
+        "Features": [
+          "Anti-bacterial properties",
+          "Ginger-based formulation",
+          "Tough on grease",
+          "Gentle on hands",
+          "Pleasant fragrance"
+        ],
+        "Specification": {
+          "Form": "Bar",
+          "Color": "Green",
+          "Fragrance": "Ginger",
+          "Packaging Type": "Multipack",
+          "Shelf Life": "24 months"
+        },
+        "Brand": "Exo",
+        "Product Image": "https://www.jiomart.com/images/product/original/590980287/exo-anti-bacterial-dishwash-super-gel-225-g-product-images-o590980287-p590980287-0-202203151622.jpg",
+        "Product Ingredient Image": "https://www.jiomart.com/images/product/original/590980287/exo-anti-bacterial-dishwash-super-gel-225-g-product-images-o590980287-p590980287-1-202203151622.jpg"
+      },
+      {
+        "Barcode": "8902102164173",
+        "ProductName": "Exo Safai Steel Scrubber - Rust Free",
+        "Description": "Exo Safai Steel Scrubber is a 100% stainless steel, rust-free scrubber designed to effectively remove tough grease, oil stains, and dried food residues from utensils without scratching surfaces. It is gentle on hands and durable for long-term use.",
+        "Category": "Cleaning & Household",
+        "ProductLine": "Scrubbers",
+        "Quantity": 12,
+        "Unit": "gm",
+        "Features": [
+          "100% stainless steel construction",
+          "Rust-free and long-lasting",
+          "Removes tough grease and stains",
+          "Gentle on hands",
+          "Does not scratch utensils"
+        ],
+        "Specification": {
+          "Material": "Stainless Steel",
+          "Weight": "12g",
+          "Packaging": "Single piece",
+          "CountryOfOrigin": "India",
+          "Manufacturer": "Jyothy Labs Ltd.",
+          "ManufacturerAddress": "Ujala House, Ramkrishna Mandir Road, Kondivita, Andheri (East), Mumbai-400059, India"
+        },
+        "Brand": "Exo",
+        "ProductImage": "https://www.bigbasket.com/media/uploads/p/l/254679_2-exo-safai-steel-scrubber-rust-free.jpg",
+        "ProductIngredientImage": null
+      },
+      {
+        "Barcode": "8902102160212",
+        "Product Name": "Maya Rose Agarbathi",
+        "Description": "Maya Rose Agarbathi offers a rich and aromatic experience, inspired by nature. It spreads faster and lingers longer, creating a soothing ambiance.",
+        "Category": "Pooja Items",
+        "ProductLine": "Maya Agarbathi",
+        "Quantity": 1,
+        "Unit": "gm",
+        "Features": [
+          "Inspired by nature",
+          "Rich aromatic experience",
+          "Spreads faster and lingers longer"
+        ],
+        "Specification": {
+          "Weight": "50g",
+          "Dimensions": "5x5x10 cm"
+        },
+        "Brand": "Jyothy Laboratories",
+        "Product Image": "https://www.souqalbuhair.com/image/cache/catalog/products/8902102160212-500x500.jpg",
+        "Product Ingredient Image": "https://www.souqalbuhair.com/image/cache/catalog/products/8902102160212-ingredients-500x500.jpg"
+      }
+  ]
+  
